@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Frontend / Full-Stack Developer · React, TypeScript, Next.js, Go
 
 I enjoy working with modern performance optimization techniques and like digging into how frameworks actually work.
